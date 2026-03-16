@@ -1,0 +1,150 @@
+{
+  "nombre": "Campuslands",
+  "tipo": "Bootcamp tecnológico y fábrica de talento digital",
+  "descripcion_corta": "Fábrica de talento tecnológico con enfoque social que forma desarrolladores de software mediante bootcamps intensivos y los conecta con oportunidades laborales en la industria tecnológica global.",
+  "descripcion_larga": "Campuslands es un programa intensivo de formación tecnológica enfocado en el desarrollo de software, creado para reducir la brecha de talento digital en Latinoamérica. A través de un modelo educativo práctico basado en proyectos, prepara a jóvenes sin experiencia previa para convertirse en desarrolladores full stack con habilidades técnicas, dominio del inglés y competencias profesionales necesarias para trabajar en la industria tecnológica.",
+
+  "sitio_web": "https://www.campuslands.com/",
+
+  "fundacion": {
+    "año": 2020,
+    "lugar": "Bucaramanga, Santander, Colombia",
+    "fundador_ceo": "Diego Tarazona",
+    "contexto": "Nació ante la escasez de desarrolladores de software en el mercado latinoamericano y la necesidad de generar oportunidades de empleo tecnológico para jóvenes."
+  },
+
+  "origen_y_mision": {
+    "impulso_inicial": "Creada por un grupo de empresas de software que necesitaban programadores capacitados.",
+    "mision": "Transformar vidas mediante la educación tecnológica y el acceso al empleo digital.",
+    "vision": "Convertirse en una de las principales fábricas de talento tecnológico de Latinoamérica.",
+    "objetivo_social": "Ofrecer oportunidades reales de empleo a jóvenes de estratos socioeconómicos bajos mediante formación intensiva en habilidades digitales.",
+    "problema_que_aborda": "Déficit de talento tecnológico en la industria del software y limitadas oportunidades laborales para jóvenes sin acceso a educación tecnológica especializada.",
+    "modelo_de_negocio_futuro": "Modelo de financiación basado en éxito laboral donde los estudiantes pagan su formación después de conseguir empleo."
+  },
+
+  "programa_de_formacion": {
+    "nombre_del_programa": "Bootcamp intensivo Full Stack con Inteligencia Artificial aplicada",
+    "duracion": "10 meses",
+    "intensidad_horaria": "Más de 2000 horas de formación práctica",
+    "modalidad": "Presencial",
+    "metodologia": "Learning by doing (aprender haciendo)",
+    "enfoque": "Aprendizaje basado en proyectos reales y resolución de problemas",
+    
+    "pilares_formativos": [
+      {
+        "nombre": "Habilidades Técnicas (Tech Skills)",
+        "descripcion": "Desarrollo de software full stack, arquitectura de aplicaciones web y fundamentos de inteligencia artificial aplicada."
+      },
+      {
+        "nombre": "Inglés",
+        "descripcion": "Formación intensiva en inglés técnico orientado al trabajo remoto y la industria global."
+      },
+      {
+        "nombre": "Habilidades Blandas",
+        "descripcion": "Comunicación, liderazgo, trabajo en equipo, disciplina profesional y crecimiento personal."
+      }
+    ],
+
+    "tecnologias_comunes": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "Git",
+      "Node.js",
+      "Bases de datos",
+      "APIs",
+      "Inteligencia Artificial aplicada",
+      "Desarrollo web full stack"
+    ]
+  },
+
+  "metodologia_educativa": {
+    "filosofia": "Aprender construyendo proyectos reales similares a los que se desarrollan en la industria.",
+    "modelo_de_aprendizaje": "Bootcamp intensivo",
+    "evaluacion": "Basada en proyectos, retos técnicos y desempeño práctico.",
+    "entorno": "Ambiente colaborativo que simula equipos reales de desarrollo de software."
+  },
+
+  "empleabilidad": {
+    "tasa_de_empleo": "80% - 90% de los graduados consiguen empleo dentro de los primeros 90 días.",
+    "salario_promedio_inicial": "Superior a US$1,000 mensuales.",
+    "impacto_economico": "Los egresados suelen duplicar o triplicar el salario promedio de sus familias.",
+    "estrategia": "Campuslands funciona como puente entre estudiantes y empresas tecnológicas que buscan talento digital.",
+    "proceso": "Empresas realizan entrevistas técnicas y procesos de selección directamente con los graduados del programa."
+  },
+
+  "impacto_social": {
+    "enfoque": "Educación tecnológica como herramienta de movilidad social.",
+    "poblacion_objetivo": "Jóvenes de estratos 1, 2 y 3, o personas sin acceso a educación tecnológica especializada.",
+    "beneficios": [
+      "Acceso a formación tecnológica de alto nivel",
+      "Oportunidad de empleo en la industria tecnológica",
+      "Movilidad social y económica",
+      "Desarrollo personal y profesional"
+    ]
+  },
+
+  "presencia_y_sedes": [
+    {
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "detalle": "Sede principal y origen del proyecto."
+    },
+    {
+      "pais": "Colombia",
+      "ciudad": "Tibú (Norte de Santander)",
+      "detalle": "Proyecto educativo en alianza con instituciones locales para formar talento digital en la región del Catatumbo."
+    },
+    {
+      "pais": "Guatemala",
+      "ciudad": "Ciudad de Guatemala",
+      "detalle": "Primera sede internacional inaugurada en 2025 en el Campus Tecnológico TEC (Zona 4)."
+    }
+  ],
+
+  "perfil_del_aspirante": {
+    "requisitos_previos": "No se requiere experiencia previa en programación.",
+    "habilidades_deseadas": [
+      "Pensamiento lógico",
+      "Disciplina",
+      "Capacidad de aprendizaje rápido",
+      "Interés por la tecnología"
+    ],
+    "enfoque_inclusivo": "Sistema de becas basado en resultados académicos y estudio socioeconómico."
+  },
+
+  "proceso_de_admision": {
+    "fases": [
+      "Registro en línea en el sitio web oficial.",
+      "Presentación de pruebas de admisión (lógica y razonamiento).",
+      "Proceso presencial de vinculación de aproximadamente 15 días.",
+      "Selección final e ingreso al programa."
+    ]
+  },
+
+  "perfil_del_egresado": {
+    "rol_principal": "Desarrollador de software junior",
+    "habilidades": [
+      "Desarrollo web full stack",
+      "Trabajo en equipo en proyectos tecnológicos",
+      "Comunicación profesional",
+      "Uso de herramientas de desarrollo modernas",
+      "Capacidad de aprendizaje continuo"
+    ]
+  },
+
+  "palabras_clave": [
+    "bootcamp",
+    "programación",
+    "desarrollo de software",
+    "talento tecnológico",
+    "educación tecnológica",
+    "full stack",
+    "inteligencia artificial",
+    "empleabilidad",
+    "Latinoamérica"
+  ],
+
+  "ultima_actualizacion": "2026-03-15"
+}
