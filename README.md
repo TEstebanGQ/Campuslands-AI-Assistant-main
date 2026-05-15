@@ -102,7 +102,3 @@ El sistema cuenta con protecciones para:
 👤 Autor:
 Desarrollado por Tomas Esteban Gonzalez Quintero
 
----
-<p align="center">
-  <img width="300" src="https://i.imgur.com/a7YBcsp.png">
-</p>
